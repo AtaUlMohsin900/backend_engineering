@@ -97,7 +97,7 @@ ________________________________________
 •	OpenAPI & API-First: Writing API specifications (Swagger) prior to implementation.
 •	Webhooks: Server-triggered push notifications, signature verification, retry policies, and testing locally (ngrok).
 ________________________________________
-### 🚀 25. DevOps & Deployment Strategies [00:30:40]
+### 🚀 25. DevOps & Deployment Strategies
 •	CI/CD Pipelines: Automated testing, building, and deployments.
 •	Infrastructure & Containers: Docker, Kubernetes, Infrastructure as Code (IaC).
 •	Scaling & Deployments: Vertical vs Horizontal scaling, Blue-Green deployments, and Rolling releases.
