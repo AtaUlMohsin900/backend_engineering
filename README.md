@@ -6,8 +6,8 @@ ________________________________________
  ### 🚀 2. Deep Dive into HTTP Protocol 
 •	HTTP Fundamentals: Message structure, status codes (2xx, 4xx, 5xx), persistent connections, and content ne gotiation.
 •	Headers & Methods: Request/Response headers (security, representational), HTTP methods (GET, POST, PUT, DELETE), and CORS/Pre-flight requests.
-•	Caching & Security: HTTP caching (ETag, Cache-Control), protocol evolution (HTTP/1.1 vs HTTP/2 vs HTTP/3), body compression (gzip, br), and SSL/TLS HTTPS encryption.
-________________________________________
+• Caching & Security: HTTP caching (ETag, Cache-Control), protocol evolution (HTTP/1.1 vs HTTP/2 vs HTTP/3), body compression (gzip, br), and SSL/TLS HTTPS          encryption.
+______ __________________________________
 ### 🚀 3. Routing & URL Mapping 
 •	Route Types: Static, dynamic, nested, hierarchical, wildcard, and regex routes.
 •	API Versioning & Deprecation: Industry standard ways to version and deprecate endpoints without breaking clients.
