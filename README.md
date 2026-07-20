@@ -1,6 +1,6 @@
-# Backend Engineering
+ # 👨‍💻 Backend Engineering
 We will learn in this course
-1. High-Level Backend Flow & System Understanding 
+## 🚀1. High-Level Backend Flow & System Understanding 
 •	Client-Server Communication: Understanding how a request leaves a client browser, passes through networks/firewalls, reaches an AWS remote server, and returns a response.
 ________________________________________
 2. Deep Dive into HTTP Protocol 
