@@ -3,7 +3,7 @@ We will learn in this course
 ## 🚀1. High-Level Backend Flow & System Understanding 
 •	Client-Server Communication: Understanding how a request leaves a client browser, passes through networks/firewalls, reaches an AWS remote server, and returns a response.
 ________________________________________
-#####🚀 2. Deep Dive into HTTP Protocol 
+ 2.####🚀 Deep Dive into HTTP Protocol 
 •	HTTP Fundamentals: Message structure, status codes (2xx, 4xx, 5xx), persistent connections, and content negotiation.
 •	Headers & Methods: Request/Response headers (security, representational), HTTP methods (GET, POST, PUT, DELETE), and CORS/Pre-flight requests.
 •	Caching & Security: HTTP caching (ETag, Cache-Control), protocol evolution (HTTP/1.1 vs HTTP/2 vs HTTP/3), body compression (gzip, br), and SSL/TLS HTTPS encryption.
